@@ -1,0 +1,40 @@
+{
+    
+        "stat": {
+            "definition": [
+                "https://www.khanacademy.org/math/statistics-probability",
+                "https://www.coursera.org/courses?query=statistics",
+                "https://www.edx.org/",
+                "Hello"
+            ],
+            "def": [
+                "https://www.khanacademy.org/math/statistics-probability",
+                "https://www.coursera.org/courses?query=statistics",
+                "https://www.edx.org/",
+                "Hello"
+            ]
+        },
+        "fonct": {
+            "definition": [
+                "https://developer.mozilla.org/en-US/",
+                "https://www.w3schools.com/"
+            ],
+            "astuce": [
+                "https://www.codecademy.com/",
+                "https://www.freecodecamp.org/"
+            ],
+            "exemple": [
+                "https://www.coursera.org/",
+                "https://www.udemy.com/",
+                "http://www.python-simple.com/python-pandas/creation-series.php",
+                "http://www.python-simple.com/python-pandas/creation-dataframes.php",
+                "http://www.python-simple.com/python-pandas/modif-dataframes.php",
+                "https://seaborn.pydata.org/examples/errorband_lineplots.html",
+                "https://seaborn.pydata.org/examples/different_scatter_variables.html",
+                "https://seaborn.pydata.org/examples/histogram_stacked.html",
+                "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_3_0.html#sphx-glr-auto-examples-release-highlights-plot-release-highlights-1-3-0-py",
+                "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_coclustering.html#sphx-glr-auto-examples-bicluster-plot-spectral-coclustering-py"
+            ]
+        }
+    
+}

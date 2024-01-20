@@ -1,0 +1,10 @@
+2023-10-02 10:46:44,744 - DEBUG - Using proactor: IocpProactor
+2023-10-02 10:46:44,759 - INFO - [Pic] le temps d'execution d'embrocher est 0.015561580657958984
+2023-10-02 10:46:44,759 - INFO - [Bar] le temps d'execution de recevoir est 0.015561580657958984
+2023-10-02 10:46:44,872 - INFO - [Pic] le temps d'execution d'embrocher est 0.12842321395874023
+2023-10-02 10:46:44,872 - INFO - [Bar] le temps d'execution de recevoir est 0.12842321395874023
+2023-10-02 10:46:44,993 - INFO - [Serveur] le temps d'execution de prendre commande est 0.2491617202758789
+2023-10-02 10:46:45,034 - INFO - [Pic] le temps d'execution de liberer est 0.29040098190307617
+2023-10-02 10:46:45,036 - INFO - [Barman] le temps d'execution de préparer est 0.2918515205383301
+2023-10-02 10:46:45,036 - INFO - [Bar] le temps d'execution d'evacuer est 0.2918515205383301
+2023-10-02 10:46:45,036 - INFO - [Serveur] le temps d'execution de servir est 0.2918515205383301

@@ -1,0 +1,16 @@
+2023-10-10 20:39:50,313 - INFO - [Serveur] fonction prendre_commande utilisée au temps 0.0
+2023-10-10 20:39:51,342 - INFO - [Pic] fonction ajouter utilisée au temps 1.029005527496338
+2023-10-10 20:39:51,342 - INFO - [Pic] fonction retirer utilisée au temps 1.029005527496338
+2023-10-10 20:39:51,342 - INFO - [Serveur] fonction prendre_commande utilisée au temps 1.029005527496338
+2023-10-10 20:39:52,345 - INFO - [Pic] fonction ajouter utilisée au temps 2.0317745208740234
+2023-10-10 20:39:52,345 - INFO - [Barman] fonction prepare utilisée au temps 2.0317745208740234
+2023-10-10 20:39:52,367 - INFO - [Bar] fonction ajouter utilisée au temps 2.054042100906372
+2023-10-10 20:39:52,367 - INFO - [Bar] fonction retirer utilisée au temps 2.054042100906372
+2023-10-10 20:39:52,367 - INFO - [Barman] fonction encaissée utilisée au temps 2.054042100906372
+2023-10-10 20:39:52,367 - INFO - [Pic] fonction retirer utilisée au temps 2.054042100906372
+2023-10-10 20:39:52,367 - INFO - [Serveur] fonction servir utilisée au temps 2.054042100906372
+2023-10-10 20:39:53,389 - INFO - [Barman] fonction prepare utilisée au temps 3.076033353805542
+2023-10-10 20:39:53,406 - INFO - [Bar] fonction ajouter utilisée au temps 3.0927088260650635
+2023-10-10 20:39:53,406 - INFO - [Bar] fonction retirer utilisée au temps 3.0927088260650635
+2023-10-10 20:39:53,408 - INFO - [Barman] fonction encaissée utilisée au temps 3.094271421432495
+2023-10-10 20:39:53,421 - INFO - [Serveur] fonction servir utilisée au temps 3.1078968048095703
